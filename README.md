@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://twitter.com/Mohamedhafeez0">
-    <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/22b22287602523.5dbd29081561d.gif" width="1920" height="450">
+    <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/22b22287602523.5dbd29081561d.gif" width="1920" height="400">
   </a>
 </p>
 <h1 align="center">Hi 👋, I'm Mohammed Hafeez</h1>

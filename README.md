@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://twitter.com/Mohamedhafeez0">
-    <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/22b22287602523.5dbd29081561d.gif" alt="MasterHead" width="1920" height="732">
+    <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/22b22287602523.5dbd29081561d.gif" alt="MasterHead" width="732" height="1920">
   </a>
 </p>
 

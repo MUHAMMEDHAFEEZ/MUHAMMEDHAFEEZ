@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://twitter.com/mohamedhafeez0" target="blank"><img src="https://img.shields.io/twitter/follow/mohamedhafeez0?logo=twitter&style=for-the-badge" alt="mohamedhafeez0" /></a> </p>
 
-- 🌱 I’m currently learning **React native, dot net.**
+- 🌱 I’m currently learning **SPRING BOOT**
 
 - 💬 Ask me about **Django, React native, Flutter, Python**
 

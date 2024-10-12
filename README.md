@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **SPRING BOOT**
 
-- 💬 Ask me about **Django, React native, Flutter, Python**
+- 💬 Ask me about **Django, React native, LARAVEL, Python**
 
 - 📫 How to reach me **mohammedhafeez.dev@gmail.com**
 

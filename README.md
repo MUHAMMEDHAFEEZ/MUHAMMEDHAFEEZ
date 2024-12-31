@@ -4,7 +4,7 @@
   </a>
 </p>
 <h1 align="center">Hi 👋, I'm Mohammed Hafeez</h1>
-<h3 align="center">A passionate Software engineer from Egypt <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
+<h3 align="center">A Software engineer from Egypt <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammedhafeez&label=Profile%20views&color=0e75b6&style=flat" alt="muhammedhafeez" /> </p>

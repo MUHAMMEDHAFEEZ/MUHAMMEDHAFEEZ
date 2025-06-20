@@ -10,7 +10,7 @@
 
 <h3 align="center">A Software engineer from Egypt <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=muhammedhafeez&label=Profile%20views&color=0e75b6&style=flat" alt="muhammedhafeez" />
   <a href="https://twitter.com/mohamedhafeez0" target="blank"><img src="https://img.shields.io/twitter/follow/mohamedhafeez0?logo=twitter&style=for-the-badge" alt="mohamedhafeez0" /></a>
 </p>
@@ -43,7 +43,6 @@
 ### 📊 GitHub Stats:
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammedhafeez&theme=tokyonight_duo&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api?username=muhammedhafeez&show_icons=true&theme=tokyonight&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedhafeez&layout=compact&theme=tokyonight&hide_border=true" />
 </div>

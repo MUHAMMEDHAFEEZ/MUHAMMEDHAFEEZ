@@ -1,4 +1,5 @@
 
+<!-- 👋 Intro GIF and Typing Header -->
 <div align="center">
   <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/22b22287602523.5dbd29081561d.gif" width="100%">
 </div>

@@ -11,11 +11,12 @@
 <h3 align="center">A Software engineer from Egypt <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mohammed-hafeez-574306235"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
-  <a href="https://twitter.com/mohamedhafeez0"><img src="https://img.shields.io/twitter/follow/mohamedhafeez0?logo=twitter&style=for-the-badge" alt="mohamedhafeez0"/></a>
-  <a href="mailto:mohammedhafeez.dev@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/mohammed-hafeez-574306235"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white"/></a>
+  <a href="https://twitter.com/mohamedhafeez0"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white"/></a>
+  <a href="mailto:mohammedhafeez.dev@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>
   <img src="https://komarev.com/ghpvc/?username=muhammedhafeez&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
+
 
 ### 👨‍💻 About Me
 

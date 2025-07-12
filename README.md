@@ -8,7 +8,7 @@
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=66FCF1&center=true&vCenter=true&width=600&lines=Hi%F0%9F%91%8B%2C+I'm+Mohammed+Hafeez;Backend+Engineer+%F0%9F%92%BB;Python+%7C+Django+%7C+DRF+Docker" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=66FCF1&center=true&vCenter=true&width=600&lines=Hi%F0%9F%91%8B%2C+I'm+Mohammed+Hafeez;Backend+Engineer+%F0%9F%92%BB;Python+%7C+Django+%7C+DRF+%7C+Docker" alt="Typing SVG" />
 </div>
 
 <h3 align="center">A Backend engineer from Egypt <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>

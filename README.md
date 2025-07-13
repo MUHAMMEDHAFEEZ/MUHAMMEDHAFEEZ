@@ -48,18 +48,20 @@ class SoftwareEngineer:
 
 ### 📊 GitHub Analytics
 
-### 📊 GitHub Analytics
-
 <!-- GitHub activity graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=MUHAMMEDHAFEEZ&theme=tokyonight&area=true&hide_border=true&width=300" />
+
 
 <!-- GitHub trophy stats -->
 <img src="https://github-profile-trophy.vercel.app/?username=MUHAMMEDHAFEEZ&theme=tokyonight&no-bg=true&no-frame=true&column=3&margin-w=15&margin-h=15&width=300" />
 
+
 <!-- GitHub contribution snake -->
 <img src="https://raw.githubusercontent.com/MUHAMMEDHAFEEZ/MUHAMMEDHAFEEZ/output/github-contribution-grid-snake.svg" width="300" />
 
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 ![ayat-dark](https://github.com/user-attachments/assets/916aad76-a56d-4e72-a2de-5f70d5ecde93#gh-dark-mode-only&cache_seconds=1800&count_private=true)
 ![ayat-light](https://github.com/user-attachments/assets/1ba2bd51-f9b2-4080-b48b-7f6dd9845336#gh-light-mode-only)

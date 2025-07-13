@@ -39,22 +39,37 @@ class SoftwareEngineer:
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; font-size: 0;">
-    <a href="https://www.python.org" target="_blank" style="display: inline-block; margin: 5; padding: 3; border: none;"><img src="https://skillicons.dev/icons?i=python" alt="Python" title="Python" style="display: block; border: none;"/></a><!--
-    --><a href="https://www.djangoproject.com" target="_blank" style="display: inline-block; margin: 5; padding: 3; border: none;"><img src="https://skillicons.dev/icons?i=django" alt="Django" title="Django" style="display: block; border: none;"/></a><!--
-    --><a href="https://www.java.com" target="_blank" style="display: inline-block; margin: 5; padding: 3; border: none;"><img src="https://skillicons.dev/icons?i=java" alt="Java" title="Java" style="display: block; border: none;"/></a><!--
-    --><a href="https://spring.io" target="_blank" style="display: inline-block; margin: 5; padding: 3; border: none;"><img src="https://skillicons.dev/icons?i=spring" alt="Spring" title="Spring Framework" style="display: block; border: none;"/></a><!--
-    --><a href="https://aws.amazon.com" target="_blank" style="display: inline-block; margin: 5; padding: 3; border: none;"><img src="https://skillicons.dev/icons?i=aws" alt="AWS" title="Amazon Web Services" style="display: block; border: none;"/></a><!--
-    --><a href="https://git-scm.com" target="_blank" style="display: inline-block; margin: 5; padding: 3; border: none;"><img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" style="display: block; border: none;"/></a><!--
-    --><a href="https://firebase.google.com" target="_blank" style="display: inline-block; margin: 5; padding: 3; border: none;"><img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" title="Firebase" style="display: block; border: none;"/></a><!--
-    --><a href="https://flutter.dev" target="_blank" style="display: inline-block; margin: 5; padding: 3; border: none;"><img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" title="Flutter" style="display: block; border: none;"/></a><!--
-    --><a href="https://nodejs.org" target="_blank" style="display: inline-block; margin: 5; padding: 3; border: none;"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" title="Node.js" style="display: block; border: none;"/></a><!--
-    --><a href="https://www.postgresql.org" target="_blank" style="display: inline-block; margin: 5; padding: 3; border: none;"><img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" title="PostgreSQL" style="display: block; border: none;"/></a><!--
-    --><a href="https://www.mysql.com" target="_blank" style="display: inline-block; margin: 5; padding: 3; border: none;"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" title="MySQL" style="display: block; border: none;"/></a><!--
-    --><a href="https://www.sqlite.org" target="_blank" style="display: inline-block; margin: 5; padding: 3; border: none;"><img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" title="SQLite" style="display: block; border: none;"/></a><!--
-    --><a href="https://www.postman.com" target="_blank" style="display: inline-block; margin: 5; padding: 3; border: none;"><img src="https://skillicons.dev/icons?i=postman" alt="Postman" title="Postman" style="display: block; border: none;"/></a><!--
-    --><a href="https://isocpp.org" target="_blank" style="display: inline-block; margin: 5; padding: 3; border: none;"><img src="https://skillicons.dev/icons?i=cpp" alt="C++" title="C++" style="display: block; border: none;"/></a><!--
-    --><a href="https://www.arduino.cc" target="_blank" style="display: inline-block; margin: 5; padding: 3; border: none;"><img src="https://skillicons.dev/icons?i=arduino" alt="Arduino" title="Arduino" style="display: block; border: none;"/></a>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; font-size: 0;">
+    <!-- Python -->
+    <a href="https://www.python.org" target="_blank" style="display: inline-block; margin: 5px; padding: 0; border: none;"><img src="https://skillicons.dev/icons?i=python" alt="Python" title="Python" style="display: block; border: none;"/></a>
+    <!-- Django -->
+    <a href="https://www.djangoproject.com" target="_blank" style="display: inline-block; margin: 5px; padding: 0; border: none;"><img src="https://skillicons.dev/icons?i=django" alt="Django" title="Django" style="display: block; border: none;"/></a>
+    <!-- Java -->
+    <a href="https://www.java.com" target="_blank" style="display: inline-block; margin: 5px; padding: 0; border: none;"><img src="https://skillicons.dev/icons?i=java" alt="Java" title="Java" style="display: block; border: none;"/></a>
+    <!-- Spring -->
+    <a href="https://spring.io" target="_blank" style="display: inline-block; margin: 5px; padding: 0; border: none;"><img src="https://skillicons.dev/icons?i=spring" alt="Spring" title="Spring Framework" style="display: block; border: none;"/></a>
+    <!-- AWS -->
+    <a href="https://aws.amazon.com" target="_blank" style="display: inline-block; margin: 5px; padding: 0; border: none;"><img src="https://skillicons.dev/icons?i=aws" alt="AWS" title="Amazon Web Services" style="display: block; border: none;"/></a>
+    <!-- Git -->
+    <a href="https://git-scm.com" target="_blank" style="display: inline-block; margin: 5px; padding: 0; border: none;"><img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" style="display: block; border: none;"/></a>
+    <!-- Firebase -->
+    <a href="https://firebase.google.com" target="_blank" style="display: inline-block; margin: 5px; padding: 0; border: none;"><img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" title="Firebase" style="display: block; border: none;"/></a>
+    <!-- Flutter -->
+    <a href="https://flutter.dev" target="_blank" style="display: inline-block; margin: 5px; padding: 0; border: none;"><img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" title="Flutter" style="display: block; border: none;"/></a>
+    <!-- Node.js -->
+    <a href="https://nodejs.org" target="_blank" style="display: inline-block; margin: 5px; padding: 0; border: none;"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" title="Node.js" style="display: block; border: none;"/></a>
+    <!-- PostgreSQL -->
+    <a href="https://www.postgresql.org" target="_blank" style="display: inline-block; margin: 5px; padding: 0; border: none;"><img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" title="PostgreSQL" style="display: block; border: none;"/></a>
+    <!-- MySQL -->
+    <a href="https://www.mysql.com" target="_blank" style="display: inline-block; margin: 5px; padding: 0; border: none;"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" title="MySQL" style="display: block; border: none;"/></a>
+    <!-- SQLite -->
+    <a href="https://www.sqlite.org" target="_blank" style="display: inline-block; margin: 5px; padding: 0; border: none;"><img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" title="SQLite" style="display: block; border: none;"/></a>
+    <!-- Postman -->
+    <a href="https://www.postman.com" target="_blank" style="display: inline-block; margin: 5px; padding: 0; border: none;"><img src="https://skillicons.dev/icons?i=postman" alt="Postman" title="Postman" style="display: block; border: none;"/></a>
+    <!-- C++ -->
+    <a href="https://isocpp.org" target="_blank" style="display: inline-block; margin: 5px; padding: 0; border: none;"><img src="https://skillicons.dev/icons?i=cpp" alt="C++" title="C++" style="display: block; border: none;"/></a>
+    <!-- Arduino -->
+    <a href="https://www.arduino.cc" target="_blank" style="display: inline-block; margin: 5px; padding: 0; border: none;"><img src="https://skillicons.dev/icons?i=arduino" alt="Arduino" title="Arduino" style="display: block; border: none;"/></a>
   </div>
 </p>
 

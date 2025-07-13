@@ -51,7 +51,7 @@ class SoftwareEngineer:
 <div align="center">
   <!-- Stats container with flexbox -->
   <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px; margin: 10px 0;">
-    <img src="https://github-readme-stats.vercel.app/api?username=MUHAMMEDHAFEEZ&show_icons=true&theme=tokyonight&hide_border=true&height=195&width=300" />
+    <img src="https://github-readme-stats.vercel.app/api?username=MUHAMMEDHAFEEZ&show_icons=true&theme=tokyonight&hide_border=true&height=300&width=300" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUHAMMEDHAFEEZ&layout=compact&theme=tokyonight&hide_border=true&height=300&width=300" />
   </div>
   

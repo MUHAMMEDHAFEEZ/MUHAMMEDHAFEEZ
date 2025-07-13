@@ -14,28 +14,11 @@
 <h3 align="center">A Backend engineer from Egypt <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 
 <p align="center">
-  <!-- GitHub -->
-  <a href="https://github.com/MUHAMMEDHAFEEZ" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717"/>
-  </a>
-  
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/mohammed-hafeez-574306235" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/>
-  </a>
-  
-  <!-- Twitter -->
-  <a href="https://twitter.com/mohamedhafeez0" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2"/>
-  </a>
-  
-  <!-- Email -->
-  <a href="mailto:mohammedhafeez.dev@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335"/>
-  </a>
-  
-  <!-- Profile Views -->
-  <img src="https://komarev.com/ghpvc/?username=muhammedhafeez&label=PROFILE+VIEWS&color=8a2be2&style=for-the-badge&abbreviated=true&base=12000" alt="Profile views" /> 
+  <a href="https://github.com/MUHAMMEDHAFEEZ" target="_blank"><img src="https://img.shields.io/badge/-@MUHAMMEDHAFEEZ-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/mohammed-hafeez-574306235" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"></a>
+  <a href="https://twitter.com/mohamedhafeez0" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"></a>
+  <a href="mailto:mohammedhafeez.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=Gmail&logoColor=white"></a>
+  <img src="https://komarev.com/ghpvc/?username=muhammedhafeez&label=Views&color=6e40c9&style=flat-square&abbreviated=true&base=12000" alt="Profile views"/>
 </p>
 
 ### 👨‍💻 About Me

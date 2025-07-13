@@ -43,73 +43,59 @@ class SoftwareEngineer:
     <!-- Python -->
     <a href="https://www.python.org" target="_blank">
       <img src="https://skillicons.dev/icons?i=python" alt="Python" title="Python" />
-    </a>
-    
+    </a>    
     <!-- Django -->
     <a href="https://www.djangoproject.com" target="_blank">
       <img src="https://skillicons.dev/icons?i=django" alt="Django" title="Django" />
     </a>
-    
     <!-- Java -->
     <a href="https://www.java.com" target="_blank">
       <img src="https://skillicons.dev/icons?i=java" alt="Java" title="Java" />
     </a>
-    
     <!-- Spring -->
     <a href="https://spring.io" target="_blank">
       <img src="https://skillicons.dev/icons?i=spring" alt="Spring" title="Spring Framework" />
     </a>
-    
     <!-- AWS -->
     <a href="https://aws.amazon.com" target="_blank">
       <img src="https://skillicons.dev/icons?i=aws" alt="AWS" title="Amazon Web Services" />
     </a>
-    
     <!-- Git -->
     <a href="https://git-scm.com" target="_blank">
       <img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" />
     </a>
-    
     <!-- Firebase -->
     <a href="https://firebase.google.com" target="_blank">
       <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" title="Firebase" />
     </a>
-    
     <!-- Flutter -->
     <a href="https://flutter.dev" target="_blank">
       <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" title="Flutter" />
     </a>
-    
     <!-- Node.js -->
     <a href="https://nodejs.org" target="_blank">
       <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" title="Node.js" />
     </a>
-    
     <!-- PostgreSQL -->
     <a href="https://www.postgresql.org" target="_blank">
       <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" title="PostgreSQL" />
     </a>
-    
     <!-- MySQL -->
     <a href="https://www.mysql.com" target="_blank">
       <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" title="MySQL" />
-    </a>
-    
+    </a> 
     <!-- SQLite -->
     <a href="https://www.sqlite.org" target="_blank">
       <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" title="SQLite" />
-    </a>
-    
+    </a>   
     <!-- Postman -->
     <a href="https://www.postman.com" target="_blank">
       <img src="https://skillicons.dev/icons?i=postman" alt="Postman" title="Postman" />
-    </a>
-    
+    </a>   
     <!-- C++ -->
     <a href="https://isocpp.org" target="_blank">
       <img src="https://skillicons.dev/icons?i=cpp" alt="C++" title="C++" />
-    </a>
-    
+    </a>   
     <!-- Arduino -->
     <a href="https://www.arduino.cc" target="_blank">
       <img src="https://skillicons.dev/icons?i=arduino" alt="Arduino" title="Arduino" />

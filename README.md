@@ -56,9 +56,6 @@ class SoftwareEngineer:
 <img src="https://github-profile-trophy.vercel.app/?username=MUHAMMEDHAFEEZ&theme=tokyonight&no-bg=true&no-frame=true&column=3&margin-w=15&margin-h=15&width=300" />
 
 
-<!-- GitHub contribution snake -->
-<img src="https://raw.githubusercontent.com/MUHAMMEDHAFEEZ/MUHAMMEDHAFEEZ/output/github-contribution-grid-snake.svg" width="300" />
-
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 

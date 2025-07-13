@@ -49,8 +49,11 @@ class SoftwareEngineer:
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MUHAMMEDHAFEEZ&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUHAMMEDHAFEEZ&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MUHAMMEDHAFEEZ&show_icons=true&theme=tokyonight&hide_border=true&width=300" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUHAMMEDHAFEEZ&layout=compact&theme=tokyonight&hide_border=true&width=300" />
+  <img src="https://raw.githubusercontent.com/MUHAMMEDHAFEEZ/MUHAMMEDHAFEEZ/output/github-contribution-grid-snake.svg" width="300" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MUHAMMEDHAFEEZ&theme=tokyonight&area=true&hide_border=true&width=300" />
+
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">

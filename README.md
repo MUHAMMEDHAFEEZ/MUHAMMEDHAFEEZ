@@ -1,5 +1,8 @@
 <p align="center">
-  <a>
+<!--   <a>
+    <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/22b22287602523.5dbd29081561d.gif" width="1920" height="400">
+  </a> -->
+ <a>
     <img src="https://camo.githubusercontent.com/4c3fd71b359cd5dfadc21247cde8f16ecbe5d41db8ac79ef28e3091ab02a8bef/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f6d61785f313230302f3831626234623136353638343031392e363430623630333864313333652e676966" width="1920" height="400">
   </a>
 </p>
@@ -32,7 +35,29 @@ class SoftwareEngineer:
     def contact(self):
         return "mohammedhafeez.dev@gmail.com"
 ```
-🛠️ Tech Stack
-<p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=python,django,java,spring,aws,git,firebase,flutter,nodejs,postgresql,mysql,sqlite,postman,cpp,arduino&perline=8" /> </a> </p><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-📊 GitHub Analytics
-<div align="center"> <img src="https://raw.githubusercontent.com/andrinoff/stats/master/generated/overview.svg" alt="GitHub Overview"> </div><div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MUHAMMEDHAFEEZ&show_icons=true&theme=tokyonight&hide_border=true" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUHAMMEDHAFEEZ&layout=compact&theme=tokyonight&hide_border=true" /> </div><p align="center"> <i>Let's connect and collaborate!</i> </p>
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,django,java,spring,aws,git,firebase,flutter,nodejs,postgresql,mysql,sqlite,postman,cpp,arduino&perline=8" />
+  </a>
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MUHAMMEDHAFEEZ&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUHAMMEDHAFEEZ&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+![ayat-dark](https://github.com/user-attachments/assets/916aad76-a56d-4e72-a2de-5f70d5ecde93#gh-dark-mode-only&cache_seconds=1800&count_private=true)
+![ayat-light](https://github.com/user-attachments/assets/1ba2bd51-f9b2-4080-b48b-7f6dd9845336#gh-light-mode-only)
+
+<p align="center">
+  <i>Let's connect and collaborate!</i>
+</p>

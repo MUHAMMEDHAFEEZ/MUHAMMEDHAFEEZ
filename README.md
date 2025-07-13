@@ -60,5 +60,9 @@ class SoftwareEngineer:
 ![ayat-light](https://github.com/user-attachments/assets/1ba2bd51-f9b2-4080-b48b-7f6dd9845336#gh-light-mode-only)
 
 <p align="center">
-  <i>Let's connect and collaborate!</i>
+  <b>✨ Open for collaborations • Let's connect! ✨</b>
+  
+  [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/MUHAMMEDHAFEEZ)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+  [![Mail](https://img.shields.io/badge/Email-%23EA4335.svg?logo=gmail&logoColor=white)](mailto:you@example.com)
 </p>

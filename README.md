@@ -17,7 +17,7 @@
   <a href="https://www.linkedin.com/in/mohammed-hafeez-574306235"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white"/></a>
   <a href="https://twitter.com/mohamedhafeez0"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white"/></a>
   <a href="mailto:mohammedhafeez.dev@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=muhammedhafeez&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=muhammedhafeez&label=Profile%20views&color=0e75b6&style=flat&abbreviated=true/>
 </p>
 
 
@@ -59,10 +59,4 @@ class SoftwareEngineer:
 ![ayat-dark](https://github.com/user-attachments/assets/916aad76-a56d-4e72-a2de-5f70d5ecde93#gh-dark-mode-only&cache_seconds=1800&count_private=true)
 ![ayat-light](https://github.com/user-attachments/assets/1ba2bd51-f9b2-4080-b48b-7f6dd9845336#gh-light-mode-only)
 
-<p align="center">
-  <b>✨ Open for collaborations • Let's connect! ✨</b>
-  
-  [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/MUHAMMEDHAFEEZ)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-  [![Mail](https://img.shields.io/badge/Email-%23EA4335.svg?logo=gmail&logoColor=white)](mailto:you@example.com)
-</p>
+

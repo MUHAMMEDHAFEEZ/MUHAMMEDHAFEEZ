@@ -3,7 +3,7 @@
     <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/22b22287602523.5dbd29081561d.gif" width="1920" height="400">
   </a> -->
 <a>
-    <img src="https://github.com/user-attachments/assets/89f2c2f8-5c1c-41e1-86ae-9383ab6d9a17">
+    <img src="https://github.com/user-attachments/assets/89f2c2f8-5c1c-41e1-86ae-9383ab6d9a17" width="1920" height="400">
 </a>   
 </p>
 

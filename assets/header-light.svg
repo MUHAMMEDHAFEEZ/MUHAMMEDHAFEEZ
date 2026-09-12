@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 190" width="880" height="190" role="img" aria-label="Mohammed Hafeez — Backend Developer, Cairo Egypt">
+<defs>
+<pattern id="grid" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#000000" opacity="0.05"/></pattern>
+<clipPath id="card"><rect x="0" y="0" width="880" height="190" rx="14"/></clipPath>
+</defs>
+<style>.mono{font-family:ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,Liberation Mono,monospace}.sans{font-family:ui-sans-serif,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica,Arial,sans-serif}@keyframes beat{0%,100%{opacity:1}50%{opacity:.3}}@keyframes flow{0%{transform:translateX(0);opacity:0}8%{opacity:1}92%{opacity:1}100%{transform:translateX(232px);opacity:0}}@media (prefers-reduced-motion:no-preference){.beat{animation:beat 2.4s ease-in-out infinite}.packet{animation:flow 3.4s cubic-bezier(.45,.05,.55,.95) infinite}}</style>
+<rect x="0.5" y="0.5" width="879" height="189" rx="14" fill="#F7F9FC" stroke="#D6DEE8"/>
+<rect x="0" y="0" width="880" height="190" fill="url(#grid)" clip-path="url(#card)"/>
+<circle class="beat" cx="48" cy="46" r="4.5" fill="#1A7F37"/>
+<text class="mono" x="64" y="50" font-size="11" letter-spacing="1.6" fill="#1A7F37">ONLINE</text>
+<text class="mono" x="132" y="50" font-size="11" letter-spacing="1.6" fill="#5A6474">CAIRO, EG &#183; UTC+2</text>
+<text class="sans" x="44" y="100" font-size="38" font-weight="700" letter-spacing="-0.8" fill="#141A22">Mohammed Hafeez</text>
+<rect x="44" y="117" width="56" height="2" rx="1" fill="#9A6700"/>
+<text class="mono" x="44" y="142" font-size="13" fill="#5A6474">Backend Developer &#8212; APIs, async services &amp; developer tooling</text>
+<text class="mono" x="44" y="167" font-size="10.5" letter-spacing="1.8" fill="#9A6700">PYTHON &#183; DJANGO &#183; DRF &#183; POSTGRESQL &#183; DOCKER</text>
+<rect x="588" y="76" width="62" height="40" rx="8" fill="#FFFFFF" stroke="#D6DEE8"/>
+<text class="mono" x="619.0" y="99.5" font-size="10" letter-spacing="1.1" text-anchor="middle" fill="#5A6474">CLIENT</text>
+<rect x="690" y="76" width="62" height="40" rx="8" fill="#FFFFFF" stroke="#9A6700"/>
+<text class="mono" x="721.0" y="99.5" font-size="10" letter-spacing="1.1" text-anchor="middle" fill="#9A6700">API</text>
+<rect x="792" y="76" width="48" height="40" rx="8" fill="#FFFFFF" stroke="#D6DEE8"/>
+<text class="mono" x="816.0" y="99.5" font-size="10" letter-spacing="1.1" text-anchor="middle" fill="#5A6474">DB</text>
+<line x1="650" y1="96.0" x2="684" y2="96.0" stroke="#D6DEE8" stroke-width="1.5"/>
+<path d="M684 92.5 L690 96.0 L684 99.5 Z" fill="#D6DEE8"/>
+<line x1="752" y1="96.0" x2="786" y2="96.0" stroke="#D6DEE8" stroke-width="1.5"/>
+<path d="M786 92.5 L792 96.0 L786 99.5 Z" fill="#D6DEE8"/>
+<circle class="packet" cx="600" cy="96.0" r="3.5" fill="#0969DA"/>
+<text class="mono" x="714" y="140" font-size="9.5" letter-spacing="1.4" text-anchor="middle" fill="#5A6474">REQUEST FLOW</text>
+</svg>

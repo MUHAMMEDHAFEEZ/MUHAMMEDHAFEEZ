@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 262" width="880" height="262" role="img" aria-label="Tech stack">
+<style>.mono{font-family:ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,Liberation Mono,monospace}</style>
+<rect x="0.5" y="0.5" width="879" height="261" rx="14" fill="#11161F" stroke="#242C3A"/>
+<line x1="152" y1="20" x2="152" y2="242" stroke="#242C3A"/>
+<text class="mono" x="28" y="46" font-size="10.5" letter-spacing="1.6" fill="#D8A657">LANGUAGES</text>
+<rect x="172" y="24" width="69" height="34" rx="8" fill="#0D1117" stroke="#58A6FF"/>
+<text class="mono" x="206.5" y="46" font-size="12" text-anchor="middle" fill="#E6EDF3">Python</text>
+<rect x="251" y="24" width="55" height="34" rx="8" fill="#0D1117" stroke="#242C3A"/>
+<text class="mono" x="278.5" y="46" font-size="12" text-anchor="middle" fill="#7D8590">Java</text>
+<rect x="316" y="24" width="48" height="34" rx="8" fill="#0D1117" stroke="#242C3A"/>
+<text class="mono" x="340.0" y="46" font-size="12" text-anchor="middle" fill="#7D8590">SQL</text>
+<rect x="374" y="24" width="48" height="34" rx="8" fill="#0D1117" stroke="#242C3A"/>
+<text class="mono" x="398.0" y="46" font-size="12" text-anchor="middle" fill="#7D8590">C++</text>
+<text class="mono" x="28" y="106" font-size="10.5" letter-spacing="1.6" fill="#D8A657">FRAMEWORKS</text>
+<rect x="172" y="84" width="69" height="34" rx="8" fill="#0D1117" stroke="#58A6FF"/>
+<text class="mono" x="206.5" y="106" font-size="12" text-anchor="middle" fill="#E6EDF3">Django</text>
+<rect x="251" y="84" width="48" height="34" rx="8" fill="#0D1117" stroke="#58A6FF"/>
+<text class="mono" x="275.0" y="106" font-size="12" text-anchor="middle" fill="#E6EDF3">DRF</text>
+<rect x="309" y="84" width="69" height="34" rx="8" fill="#0D1117" stroke="#242C3A"/>
+<text class="mono" x="343.5" y="106" font-size="12" text-anchor="middle" fill="#7D8590">Celery</text>
+<rect x="388" y="84" width="76" height="34" rx="8" fill="#0D1117" stroke="#242C3A"/>
+<text class="mono" x="426.0" y="106" font-size="12" text-anchor="middle" fill="#7D8590">Flutter</text>
+<rect x="474" y="84" width="105" height="34" rx="8" fill="#0D1117" stroke="#D8A657" stroke-dasharray="4 3"/>
+<text class="mono" x="526.5" y="106" font-size="12" text-anchor="middle" fill="#D8A657">Spring Boot</text>
+<text class="mono" x="28" y="166" font-size="10.5" letter-spacing="1.6" fill="#D8A657">DATA</text>
+<rect x="172" y="144" width="98" height="34" rx="8" fill="#0D1117" stroke="#58A6FF"/>
+<text class="mono" x="221.0" y="166" font-size="12" text-anchor="middle" fill="#E6EDF3">PostgreSQL</text>
+<rect x="280" y="144" width="62" height="34" rx="8" fill="#0D1117" stroke="#242C3A"/>
+<text class="mono" x="311.0" y="166" font-size="12" text-anchor="middle" fill="#7D8590">Redis</text>
+<rect x="352" y="144" width="62" height="34" rx="8" fill="#0D1117" stroke="#242C3A"/>
+<text class="mono" x="383.0" y="166" font-size="12" text-anchor="middle" fill="#7D8590">MySQL</text>
+<rect x="424" y="144" width="69" height="34" rx="8" fill="#0D1117" stroke="#242C3A"/>
+<text class="mono" x="458.5" y="166" font-size="12" text-anchor="middle" fill="#7D8590">SQLite</text>
+<rect x="503" y="144" width="84" height="34" rx="8" fill="#0D1117" stroke="#242C3A"/>
+<text class="mono" x="545.0" y="166" font-size="12" text-anchor="middle" fill="#7D8590">Firebase</text>
+<text class="mono" x="28" y="226" font-size="10.5" letter-spacing="1.6" fill="#D8A657">INFRA &amp; TOOLS</text>
+<rect x="172" y="204" width="69" height="34" rx="8" fill="#0D1117" stroke="#58A6FF"/>
+<text class="mono" x="206.5" y="226" font-size="12" text-anchor="middle" fill="#E6EDF3">Docker</text>
+<rect x="251" y="204" width="48" height="34" rx="8" fill="#0D1117" stroke="#242C3A"/>
+<text class="mono" x="275.0" y="226" font-size="12" text-anchor="middle" fill="#7D8590">AWS</text>
+<rect x="309" y="204" width="48" height="34" rx="8" fill="#0D1117" stroke="#242C3A"/>
+<text class="mono" x="333.0" y="226" font-size="12" text-anchor="middle" fill="#7D8590">Git</text>
+<rect x="367" y="204" width="76" height="34" rx="8" fill="#0D1117" stroke="#242C3A"/>
+<text class="mono" x="405.0" y="226" font-size="12" text-anchor="middle" fill="#7D8590">Postman</text>
+<rect x="453" y="204" width="62" height="34" rx="8" fill="#0D1117" stroke="#242C3A"/>
+<text class="mono" x="484.0" y="226" font-size="12" text-anchor="middle" fill="#7D8590">Linux</text>
+</svg>

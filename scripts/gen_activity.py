@@ -8,7 +8,7 @@ on a third-party chart service. Re-run to refresh.
 import json
 import os
 import subprocess
-from datetime import date
+from datetime import date, timedelta
 
 LOGIN = os.environ.get("GH_LOGIN", "MUHAMMEDHAFEEZ")
 OUT = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "assets")
@@ -30,10 +30,8 @@ THEMES = {
 
 QUERY = """
 query($login:String!){
-  viewer{ login }
   user(login:$login){
     contributionsCollection{
-      restrictedContributionsCount
       contributionCalendar{
         totalContributions
         weeks{ contributionDays{ date contributionCount weekday } }
@@ -44,32 +42,30 @@ query($login:String!){
 """
 
 
-def gql(query, **vars):
-    args = ["gh", "api", "graphql", "-f", f"query={query}"]
-    for k, v in vars.items():
-        args += ["-F", f"{k}={v}"]
-    r = subprocess.run(args, capture_output=True, text=True)
-    if r.returncode != 0:
-        raise SystemExit(f"GitHub API call failed:\n{r.stderr.strip()}")
-    return json.loads(r.stdout)["data"]
-
-
 def fetch(login):
-    d = gql(QUERY, login=login)
-    cc = d["user"]["contributionsCollection"]
+    raw = subprocess.run(
+        ["gh", "api", "graphql", "-f", f"query={QUERY}", "-F", f"login={login}"],
+        capture_output=True, text=True, check=True,
+    ).stdout
+    return json.loads(raw)["data"]["user"]["contributionsCollection"]["contributionCalendar"]
 
-    # Most of this profile's activity is in private repos. A token that isn't the
-    # user's own (e.g. the default GITHUB_TOKEN in Actions) only sees public
-    # contributions, which would silently redraw the chart as near-empty.
-    if d["viewer"]["login"].lower() != login.lower():
-        raise SystemExit(
-            f"Refusing to run: authenticated as '{d['viewer']['login']}', not '{login}'.\n"
-            f"Only public contributions would be visible "
-            f"({cc['contributionCalendar']['totalContributions']} total, "
-            f"{cc['restrictedContributionsCount']} private ones hidden).\n"
-            f"Use a personal access token with the 'read:user' scope."
-        )
-    return cc["contributionCalendar"]
+
+def streaks(days):
+    """days: list of (date, count) in chronological order."""
+    longest = run = 0
+    for _, c in days:
+        run = run + 1 if c > 0 else 0
+        longest = max(longest, run)
+
+    # current streak counts back from today (a still-empty today doesn't break it)
+    by_date = dict(days)
+    cur, cursor = 0, date.today()
+    if by_date.get(cursor, 0) == 0:
+        cursor -= timedelta(days=1)
+    while by_date.get(cursor, 0) > 0:
+        cur += 1
+        cursor -= timedelta(days=1)
+    return cur, longest
 
 
 def levels(counts):
@@ -142,7 +138,7 @@ def build(cal, c):
             fill = c["ramp"][level_of(d["contributionCount"], th)]
             add(f'<rect x="{x}" y="{y}" width="{CELL}" height="{CELL}" rx="2" fill="{fill}"/>')
 
-    # legend + summary
+    # legend + streaks
     add(f'<text class="m" x="40" y="{bottom + 8}" font-size="9" fill="{c["dim"]}">LESS</text>')
     for i, col in enumerate(c["ramp"]):
         add(f'<rect x="{76 + i*PITCH}" y="{bottom}" width="{CELL}" height="{CELL}" rx="2" fill="{col}"/>')

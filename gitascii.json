@@ -1,0 +1,87 @@
+{
+  "widgets": [
+    {
+      "instanceId": "widget_1789302004997",
+      "widgetId": "surveillance-header",
+      "name": "Surveillance-header Widget",
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 780,
+        "height": 417
+      },
+      "config": {
+        "accentColor": "#00ff88",
+        "customTitle": "Surveillance Header",
+        "roleTag": "Backend Dev",
+        "modeTag": "198X MODE",
+        "animationType": "scan-lines",
+        "animationPreviewKey": 13,
+        "secondaryColor": "#55ffff",
+        "ledColor": "#00ff88"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 1
+    },
+    {
+      "instanceId": "widget_1789302084069",
+      "widgetId": "surveillance-loadout",
+      "name": "Surveillance-loadout Widget",
+      "position": {
+        "x": 0,
+        "y": 433
+      },
+      "size": {
+        "width": 780,
+        "height": 200
+      },
+      "config": {
+        "accentColor": "#00ff88",
+        "customTitle": "Daily Loadout",
+        "secondaryColor": "#55ffff",
+        "ledColor": "#00ff88"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 2
+    },
+    {
+      "instanceId": "widget_1789302630217",
+      "widgetId": "surveillance-telemetry",
+      "name": "Surveillance-telemetry Widget",
+      "position": {
+        "x": 0,
+        "y": 649
+      },
+      "size": {
+        "width": 780,
+        "height": 420
+      },
+      "config": {
+        "accentColor": "#00ff88",
+        "customTitle": "Terminal Telemetry",
+        "secondaryColor": "#55ffff",
+        "ledColor": "#00ff88"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 3
+    }
+  ],
+  "globalStyles": {
+    "backgroundColor": "#060606",
+    "textColor": "#e5e5e5",
+    "accentColor": "#c5ff4a",
+    "borderColor": "#252525",
+    "fontFamily": "'JetBrains Mono', monospace",
+    "borderRadius": 8,
+    "padding": 24,
+    "themeMode": "dark",
+    "templateStyle": "native",
+    "transparentBackground": true
+  },
+  "templateId": "minimal"
+}
